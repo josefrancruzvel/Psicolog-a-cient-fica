@@ -168,18 +168,76 @@ Esta sección permitirá entender cómo los seres humanos y los animales adquier
 
 Recurso | Link | Tiempo estimado
 :-- | :--: | :--:
-Introducción a la psicología (Sólo el capitulo 3) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+Introducción a la psicología (Sólo el capitulo 4) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
 
 
+### Filosofía IV: La Filosofía del Siglo XX
+
+En esta sección, se explorarán las corrientes filosóficas y los pensadores clave del siglo XX, destacando el desarrollo de nuevas perspectivas sobre la existencia, la conciencia y el conocimiento. Se cubrirán los siguientes temas:
+
+- **Husserl**: Fundador de la fenomenología, centrado en la descripción de la experiencia consciente.
+- **Scheler**: Filósofo que desarrolló una ética fenomenológica centrada en los valores y las emociones.
+- **Bergson**: Filósofo que introdujo la noción de "duración" como una forma de comprender la conciencia y el cambio.
+- **Marcel**: Exponente del existencialismo cristiano, explorando temas como la libertad, la esperanza y el misterio de la existencia.
+- **Heidegger**: Filósofo fundamental para la fenomenología y la ontología, centrado en la cuestión del ser.
+- **Sartre**: Figura central del existencialismo ateo, que analizó la libertad, la angustia y la responsabilidad en la existencia humana.
+- **Russell**: Filósofo y lógico que hizo contribuciones clave a la filosofía analítica y la teoría del conocimiento.
 
 
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Historia de las doctrinas filosóficas (Capítulo 25 al 31) | (https://drive.google.com/file/d/17ijUfwWU_0huBWJ2K9L4rv74-ClwAi_x/view?usp=sharing) | 1 semana estudiando 2 horas al día
 
 
+### Psicología V: Memoria
+
+En esta sección se profundiza en los sistemas y procesos involucrados en la memoria humana, cubriendo los siguientes temas clave:
+
+- **Registros sensoriales**: Examina los registros visual y auditivo, y la función de la atención en la retención de información.
+- **Memoria de corto plazo (MCP)**: Describe la capacidad, codificación y mecanismos de mantenimiento de la MCP.
+- **Memoria de largo plazo (MLP)**: Analiza la capacidad, tipos y factores que influyen en la retención a largo plazo, como el efecto de posición serial.
+- **Biología de la memoria**: Explica cómo se forman y almacenan los recuerdos en el cerebro.
+- **Olvido**: Explora las causas biológicas del olvido, la influencia de la experiencia y estrategias para reducirlo.
+- **Temas especiales sobre la memoria**: Incluye estudios sobre la memoria autobiográfica, amnesia infantil, memorias extraordinarias, y la influencia cultural en los recuerdos.
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Sólo el capitulo 5) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
 
 
+### Epistemología aplicada a la investigación
+
+En esta sección, exploraremos las bases epistemológicas y gnoseológicas que fundamentan el conocimiento y la investigación científica. Los temas clave incluyen:
+
+- **Gnoseología y Epistemología**: Introducción a la teoría del conocimiento y a la epistemología, explorando conceptos como la *episteme* (conocimiento verdadero) y la *doxa* (opinión). Se revisan los niveles de conocimiento y el desarrollo histórico de la epistemología.
+- **Ciencia**: Definición, clasificación y distinción entre ciencia y pseudociencia, abordando las características de las ciencias fácticas y formales y su relevancia.
+- **Teoría Científica**: Análisis de la función y estructura de las teorías en el contexto científico.
+- **Investigación Científica**: Introducción a la curiosidad como motor de la ciencia, los tipos y enfoques de investigación, y la distinción entre investigación básica y aplicada. También se examinan los objetivos y etapas fundamentales de la investigación científica.
 
 
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Metodología de la investigación (Capítulo 1 y 2) | (http://librodigital.sangregorio.edu.ec/librosusgp/B0028.pdf) | 2 semanas estudiando 2 horas al día
 
+
+### Introducción a las Neurociencias del Comportamiento
+
+Este módulo explora la conexión entre los componentes biológicos y el comportamiento humano a través de cinco unidades:
+
+- **Unidad 1**: Revisión de la historia reciente de las neurociencias del comportamiento y sus principales antecedentes.
+- **Unidad 2**: Ontogénesis del sistema nervioso, desde la fecundación hasta el desarrollo de las estructuras cerebrales.
+- **Unidad 3**: Métodos de estudio en neurociencias, incluyendo el análisis microscópico del sistema nervioso.
+- **Unidad 4**: Relación entre memoria, cerebro y conducta, enfocándose en
+- los procesos cognitivos.
+- **Unidad 5**: Análisis de la conciencia, abordando sensación, percepción y el cerebro como centro integrador de la información.
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a las Neurociencias del Comportamiento| (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana entre todos estudiando 2 horas al día
+Introducción a la neurociencia| (https://www.coursera.org/learn/neurociencia#modules) |     
+
+
+Evolución
 
 
 https://conductitlan.org.mx/03_seminariosporjaimevargas/Nueva%20carpeta/2.%20historia_conductismo_j_r_kantor.pdf

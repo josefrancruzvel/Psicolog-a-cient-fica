@@ -20,7 +20,7 @@ Lo que las universidades no enseñan: Educación autodidacta y gratuita en a <st
 - [Temas](#curriculum)
 - [¿Como usar esta guía?](#how-to-use-this-guide)
 
-## About
+## ¿Que es esta cosa?
 
 Esta es una **ruta completa** para quienes desean adquirir una formación sólida en [Psicología Científica], suficiente para leer artículos científicos y defender sus posturas con confianza. Todo a su propio ritmo, de manera **gratuita** y con materiales provenientes de las **mejores universidades** del mundo.
 
@@ -65,14 +65,127 @@ En esta sección, aprenderás las ideas fundamentales de la Psicología, abordan
 
 Esta sección te proporcionará una comprensión integral de la Psicología, preparando el terreno para profundizar en estos temas posteriormente.
 
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Sólo el capitulo 1) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
 
-### Filosofía I: Introducción a la psicología
+### Filosofía I: Introducción a la Filosofía
+
+En esta sección, aprenderás las ideas fundamentales de la filosofía, abordando temas clave como:
+
+- **Los problemas filosóficos y sus características**: Explora su definición y los principales problemas que han sido objeto de reflexión filosófica.
+- **Diferencias entre filosofía y ciencias**: Analiza las principales distinciones y relaciones entre estas dos disciplinas.
+- **Panorama histórico de los problemas filosóficos**: Examina la evolución histórica de los problemas filosóficos más relevantes y cómo han sido tratados a lo largo del tiempo.
+- **Los presocráticos**: Conoce los primeros filósofos que abordaron la naturaleza del universo y los principios fundamentales de la realidad.
+- **Los sofistas**: Estudia el enfoque relativista de los sofistas sobre la verdad y la moral.
 
 Recurso | Link | Tiempo estimado
 :-- | :--: | :--:
-Introducción a la psicología (Páginas desde la 26 a la 68 del archivo pdf) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+Historia de las doctrinas filosóficas (Capítulo 1,2,3,4 y 5) | (https://drive.google.com/file/d/17ijUfwWU_0huBWJ2K9L4rv74-ClwAi_x/view?usp=sharing) | 1 semana estudiando 2 horas al día
+
+### Psicología II: Bases Biológicas de la Conducta
+
+En esta sección, aprenderás sobre los fundamentos biológicos que sustentan la conducta humana, cubriendo los siguientes temas clave:
+
+- **Neuronas: Los Mensajeros**: Explora el papel de las neuronas en la transmisión de señales en el sistema nervioso.
+- **El Sistema Nervioso Central**: Estudia la organización y el funcionamiento del sistema nervioso central.
+- **El Sistema Nervioso Periférico**: Aprende sobre los sistemas nerviosos que conectan el cuerpo con el cerebro.
+- **El Sistema Endocrino**: Explora cómo las glándulas endocrinas regulan las funciones del cuerpo a través de hormonas.
+- **Genes, Evolución y Conducta**: Analiza el vínculo entre genética, evolución y cómo estos influyen en el comportamiento.
 
 
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Sólo el capitulo 2) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+
+
+### Filosofía II: Filosofía griega y Medieval 
+
+En esta sección se abordan los principales pensadores y movimientos filosóficos que marcaron el pensamiento occidental, desde la Filosofía Griega hasta la Filosofía Medieval:
+
+- **Sócrates**: Introdujo el método dialéctico para buscar la verdad mediante preguntas y respuestas, centrado en la ética y la virtud.
+- **Platón**: Fundó la teoría de las Ideas, creyendo que el mundo sensible es una copia imperfecta del mundo ideal.
+- **Aristóteles**: Empírico y práctico, creía que la realidad se conoce a través de la observación y experiencia.
+- **El helenismo**: Movimiento filosófico que abogó por el estoicismo, el epicureísmo y el escepticismo.
+- **La influencia del cristianismo**: El cristianismo empezó a integrar la fe con la filosofía, cambiando el enfoque hacia la moral y la ética.
+- **San Agustín**: Filósofo cristiano que combinó el neoplatonismo con la doctrina cristiana, influyendo profundamente en la filosofía medieval.
+- **Los antecedentes de Santo Tomás de Aquino**: Filósofos medievales, como Anselmo, que prepararon el camino para la síntesis entre fe y razón.
+- **Santo Tomás de Aquino**: Combinó la filosofía aristotélica con la teología cristiana, defendiendo la armonía entre fe y razón.
+- **La decadencia escolástica y el Renacimiento**: La escolástica decayó con el Renacimiento, que enfocó la filosofía en el humanismo y la ciencia.
+
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Historia de las doctrinas filosóficas (Capítulo 6,8,9,10,11,12,13 y 14) | (https://drive.google.com/file/d/17ijUfwWU_0huBWJ2K9L4rv74-ClwAi_x/view?usp=sharing) | 1 semana estudiando 2 horas al día
+
+
+### Psicología III: Sensación y percepción
+
+En esta sección, aprenderás sobre sensación y percepción, cómo los estímulos se convierten en experiencias conscientes. Se explorarán temas como:
+
+- **Sensación y percepción**: Explora cómo los estímulos sensoriales se convierten en experiencias conscientes, abarcando los umbrales sensoriales, la percepción subliminal y extrasensorial.
+- **Visión**: Analiza el sistema visual y las teorías sobre la visión de color.
+- **Audición**: Estudia el sonido, el oído y las teorías relacionadas con la audición, así como los trastornos auditivos.
+- **Los otros sentidos**: Incluye el olfato, el gusto, los sentidos cinestésicos y vestibulares, y las sensaciones de movimiento, además del dolor.
+- **Percepción**: Examina la organización perceptual, las constancias perceptuales, y la percepción de distancia, profundidad, movimiento, e ilusiones visuales, considerando las diferencias individuales y la influencia cultural en la percepción.
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Sólo el capitulo 3) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+
+
+### Filosofía III: Filosofía Moderna
+
+En esta sección, se explorarán las principales figuras y corrientes que marcaron el pensamiento moderno, destacando sus contribuciones a la filosofía y su impacto en el desarrollo de la ciencia, la política y la ética. Se cubrirán los siguientes temas:
+
+- **René Descartes**: Padre del racionalismo, conocido por su método de duda y la famosa frase "Cogito, ergo sum".
+- **Francis Bacon**: Fundador del empirismo moderno y precursor del método científico.
+- **John Locke**: Teórico del empirismo y de los derechos naturales, influyente en la filosofía política.
+- **David Hume**: Filósofo escocés conocido por su escepticismo y empirismo, especialmente en la teoría del conocimiento.
+- **Baruch Spinoza**: Filósofo racionalista que defendió una visión panteísta de Dios y la naturaleza.
+- **Gottfried Wilhelm Leibniz**: Racionalista y matemático, famoso por su teoría de las monadas y su cálculo infinitesimal.
+- **Immanuel Kant**: Fundador del idealismo trascendental, que estableció las bases de la filosofía moderna con su crítica de la razón pura.
+- **Georg Wilhelm Friedrich Hegel**: Filósofo idealista alemán conocido por su dialéctica y la teoría del "espíritu absoluto".
+- **Karl Marx**: Filósofo y economista que desarrolló el materialismo histórico y la teoría del cambio social.
+- **Auguste Comte**: Fundador del positivismo, proponiendo la aplicación del método científico a las ciencias sociales.
+
+
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Historia de las doctrinas filosóficas (Capítulo 15 al 24) | (https://drive.google.com/file/d/17ijUfwWU_0huBWJ2K9L4rv74-ClwAi_x/view?usp=sharing) | 2 semanas estudiando 2 horas al día
+
+### Psicología IV: Aprendizaje
+
+En esta sección, se abordarán las teorías y mecanismos fundamentales del aprendizaje, explorando los procesos de condicionamiento y aprendizaje cognoscitivo. Se cubrirán los siguientes temas:
+
+- **Condicionamiento clásico**: Estudio de los elementos fundamentales del condicionamiento, su aplicación en seres humanos y su selectividad en la respuesta.
+- **Condicionamiento operante**: Análisis de los elementos del condicionamiento operante, los tipos de reforzamiento, el castigo, y fenómenos como el desamparo aprendido y la conducta supersticiosa.
+- **Comparación entre condicionamiento clásico y operante**: Se explorarán aspectos como la adquisición de respuestas, la extinción, la generalización y discriminación, y el nuevo aprendizaje basado en el anterior.
+- **Aprendizaje cognoscitivo**: Estudio del aprendizaje latente, los mapas cognoscitivos, el insight, el aprendizaje por observación y su manifestación en animales.
+
+Esta sección permitirá entender cómo los seres humanos y los animales adquieren, mantienen y modifican su conducta a través de diversas formas de aprendizaje.
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Sólo el capitulo 3) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.darwinfoundation.org/es/documents/44/fcd_ea_2011_comic_darwinteoriaevolucion.pdf
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 BIO 1311 | [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | 12 weeks | 7-14 Hours/Week

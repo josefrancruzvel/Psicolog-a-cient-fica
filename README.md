@@ -1,61 +1,77 @@
 <div align="center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
-<h3>Open Source Society University</h3>
+
+
 <p>
-  :microscope: Path to a free self-taught education in  <strong>Bioinformatics!</strong>
+Lo que las universidades no enseñan: Educación autodidacta y gratuita en a <strong>Psicología Científica!</strong>
 </p>
 <p>
-  <a href="https://github.com/open-source-society/bioinformatics">
-	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-  </a>
+
 </p>
 <p>
   <h3>
     Archived
   </h3>
 </p>
-</div>
 
-Note: this curriculum is not under active development and may be out of date. Read more [here](./ARCHIVED.md).
+## Contenido
 
-## Contents
-
-- [About](#about)
-- [Motivation & Preparation](#motivation--preparation)
-- [Curriculum](#curriculum)
-- [How to use this guide](#how-to-use-this-guide)
-- [Prerequisite](#prerequisite)
-- [How to collaborate](#how-to-collaborate)
-- [Code of Conduct](#code-of-conduct)
-- [Community](#community)
-- [Team](#team)
-- [References](#references)
+- [¿Que es esta cosa?](#about)
+- [Motivación & Preparación](#motivacion--preparacion)
+- [Temas](#curriculum)
+- [¿Como usar esta guía?](#how-to-use-this-guide)
 
 ## About
 
-This is a **solid path** for those of you who want to complete a [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) course on your own time, **for free**, with courses from the **best universities** in the World.
+Esta es una **ruta completa** para quienes desean adquirir una formación sólida en [Psicología Científica], suficiente para leer artículos científicos y defender sus posturas con confianza. Todo a su propio ritmo, de manera **gratuita** y con materiales provenientes de las **mejores universidades** del mundo.
 
-In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
+En este "plan de estudios", asumo que el lector no domina el inglés; aunque es altamente recomendable comenzar a aprenderlo, ya que la mayoría de los materiales están en ese idioma. Por ello, destacaré principalmente recursos en español. Aunque priorizamos el uso de libros, también he encontrado algunos cursos MOOC (Curso Online Masivo y Abierto) de excelente calidad (aunque muchos de ellos están en inglés), que están diseñados precisamente para un aprendizaje independiente y estructurado.
 
-To become a bioinformatician, you have to learn quite a lot of science, so be ready for subjects like; Biology, Chemistry, etc...
+Para avanzar en Psicología Científica, necesitarás profundizar en temas científicos y, de ser posible, contar con alguien a quien consultar tus dudas. Prepárate para abordar una amplia variedad de temas como Neurociencia, Estadística y más.
 
-## Motivation & Preparation
 
-Here are two interesting links that can make **all** the difference in your journey.
+## Motivación y Preparación
 
-The first one is a motivational video that shows a guy that went through the "MIT Challenge", which consists of learning the entire **4-year** MIT curriculum for Computer Science in **1 year**.
+Aquí encontrarás videos y materiales que pueden ser de gran utilidad y marcar toda la diferencia en tu proceso de aprendizaje.
 
-- [MIT Challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+Estos video te ofrece herramientas útiles que te ayudarán a empezar:
 
-The second link is a MOOC that will teach you learning techniques used by experts in art, music, literature, math, science, sports, and many other disciplines. These are **fundamental abilities** to succeed in our journey.
+- [¿Cómo ser autodidacta? 10 Consejos](https://youtu.be/u8J_kPC8IG4)
 
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [¿Cómo ser Autodidacta? - Aprender a Aprender](https://www.youtube.com/watch?v=ybkXLkEpq_s)
 
-**Are you ready to get started?**
+Para que te vayas adaptando a la estructura de los MOOCs y adquieras el hábito y la constancia de estudiar, te recomiendo que tomes este MOOC. Sin embargo, puedes elegir cualquier otro que te interese; la meta en esta etapa no es aprender Psicología, sino aprender a estudiar de manera efectiva y te vayas adaptando a ser autodidacta.
 
-## Curriculum
+- [Principios de Psicología](https://www.coursera.org/learn/psicologia-principios?specialization=fundamentos-psicologia) 
 
-### 1st Year
+**Ya estas listo para iniciar!**
+
+
+
+
+## Plan de estudio
+
+### Primer semestre
+
+### Psicología I: La ciencia de la psicología
+
+En esta sección, aprenderás las ideas fundamentales de la Psicología, abordando temas clave como:
+
+- **¿Qué es la Psicología?** Explora su definición y los campos principales.
+- **La Psicología como Ciencia**: Su evolución y el enfoque en el estudio de la conducta.
+- **Desarrollo de la Psicología**: Desde la "nueva psicología" hasta la revolución cognitiva y las nuevas direcciones.
+- **Diversidad Humana**: Temas como género, raza, origen étnico y cultura.
+- **Métodos de Investigación en Psicología**: Técnicas como observación natural, estudios de caso, encuestas, investigación experimental, y la importancia del muestreo y la ética en la investigación.
+- **Carreras en Psicología**: Diferencia entre psicología académica y aplicada, y los escenarios clínicos.
+
+Esta sección te proporcionará una comprensión integral de la Psicología, preparando el terreno para profundizar en estos temas posteriormente.
+
+
+### Filosofía I: Introducción a la psicología
+
+Recurso | Link | Tiempo estimado
+:-- | :--: | :--:
+Introducción a la psicología (Páginas desde la 26 a la 68 del archivo pdf) | (http://www.biblioteca.cij.gob.mx/Archivos/Materiales_de_consulta/Drogas_de_Abuso/Articulos/IntroduccionPsicologia.pdf) | 1 semana estudiando 2 horas al día
+
 
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:

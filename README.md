@@ -182,9 +182,9 @@ Introducción a la psicología (Sólo el capitulo 3) | (http://www.biblioteca.ci
 
 
 
-
-
-
+https://conductitlan.org.mx/03_seminariosporjaimevargas/Nueva%20carpeta/2.%20historia_conductismo_j_r_kantor.pdf
+https://repositorio.utmachala.edu.ec/bitstream/48000/14232/1/Cap.4-Investigaci%C3%B3n%20cuantitativa%20y%20cualitativa.pdf
+http://librodigital.sangregorio.edu.ec/librosusgp/B0028.pdf
 https://www.darwinfoundation.org/es/documents/44/fcd_ea_2011_comic_darwinteoriaevolucion.pdf
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
